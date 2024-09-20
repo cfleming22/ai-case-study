@@ -78,10 +78,10 @@ ElevenLabs is primarily trying to solve the problem of language barriers in cont
   - Resemble
   - Descript
 ### Innovation in  the Field
-#### ~Competitive and Overall Marketplace~
+#### Competitive and Overall Marketplace
 - Expansive growth of language supported TTS[^26]
 - Generative AI[^27]
-#### ~ElevenLabs Recently~
+#### ElevenLabs Recently
 - **Turbo v2.5 Model:** 
   - An improved AI engine that enhances both the speed and quality of text-to-speech conversion.
 - **Text-to-music model:**
